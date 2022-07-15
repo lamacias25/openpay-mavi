@@ -1,8 +1,8 @@
 {
-    "name": "mavi/magento2-cards",
+    "name": "mavi/openpay-cards",
     "description": "Credit card payment integration for Magento 2",
-    "version": "1.0.0",
-    "type": "magento2-module",    
+    "type": "magento2-module",
+    "minimum-stability": "stable",
     "license": "Apache-2.0",
     "require": {
         "openpay/sdk": "2.2.*"

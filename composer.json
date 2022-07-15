@@ -6,7 +6,8 @@
     "minimum-stability": "dev",
     "license": "Apache-2.0",
     "require": {
-        "openpay/sdk": "2.2.*"
+        "openpay/sdk": "2.2.*",
+        "mavi/openpay-cards": "dev-main"
     },
     "authors": [
         {

@@ -7,7 +7,7 @@
     "license": "Apache-2.0",
     "require": {
         "openpay/sdk": "2.2.*",
-        "lamacias25/magento2-cards": "main@dev"
+        "lamacias25/magento2-cards": "master@main"
     },
     "authors": [
         {

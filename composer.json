@@ -1,5 +1,5 @@
 {
-    "name": "mavi/magento2-cards",
+    "name": "lamacias25/magento2-cards",
     "version": "3.4.2",
     "description": "Credit card payment integration for Magento 2",
     "type": "magento2-module",    

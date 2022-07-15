@@ -1,7 +1,7 @@
 {
     "name": "mavi/magento2-cards",
     "description": "Credit card payment integration for Magento 2",
-    "version": "3.4.2",
+    "version": "1.0.0",
     "type": "magento2-module",    
     "license": "Apache-2.0",
     "require": {
